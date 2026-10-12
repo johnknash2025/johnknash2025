@@ -28,7 +28,7 @@ Public code and measurements, open for anyone to reuse.
 ## Support
 If my benchmarks, fixes or tools saved you time, you can buy me a coffee. It funds test hardware and time for open-source fixes.
 
-<a href="https://buymeacoffee.com/awscloudpax"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me a Coffee" height="50"></a>
+<a href="https://buymeacoffee.com/awscloudpax"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50"></a>
 
 ## Feedback and work with me
 Comments on any project page are welcome: each page has a feedback form and a discussion board. Contact: coming soon.
