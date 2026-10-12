@@ -25,5 +25,10 @@ Public code and measurements, open for anyone to reuse.
 - Products are built with AI coding agents under written rules: confidentiality first, no hidden telemetry, and every change reports *verified* versus *not verified*.
 - Confidential evaluation runs on local machines with local models.
 
+## Support
+If my benchmarks, fixes or tools saved you time, you can buy me a coffee. It funds test hardware and time for open-source fixes.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/awscloudpax)
+
 ## Feedback and work with me
 Comments on any project page are welcome: each page has a feedback form and a discussion board. Contact: coming soon.
