@@ -4,12 +4,22 @@ Physicist turned AI Researcher & Multi-domain Engineer | LLM Farmer. Physics →
 
 I build **local-first AI tools**: software that runs on your own hardware, keeps your data with you, and tells you honestly what has and has not been verified.
 
-## Projects
-Each project has a documentation page with screenshots, a design diagram and an honest status table. The software is proprietary; source code can be shared when we discuss a project.
+## Products
+Products I am building to offer as services (Happy AI Garage).
+
+| Product | What it is | Status |
+|---|---|---|
+| [**Temae: Local LLM Benchmark**](https://github.com/johnknash2025/temae-local-llm-benchmark) | Desktop app that re-runs your own task suite on every local model and produces client-ready reports | Working prototype, tested on macOS |
+| **Hatake Shirube (畑しるべ)** | Farm management: camera-based crop diagnosis, planting plans, cultivation records and sale-price forecasts | In development; documentation page coming |
+| **Agent Commerce** | Talk to one agent on your phone or PC: it gathers what you need to know and buys for you, only after you approve each purchase. Shops would only need to offer an API, not host a full storefront | Concept |
+
+The software is proprietary; source code can be shared when we discuss a project. Each documented product has a page with screenshots, a design diagram and an honest status table.
+
+## Hobby projects
+Smaller tools I build for myself and share as they are.
 
 | Project | What it is | Status |
 |---|---|---|
-| [**Temae: Local LLM Benchmark**](https://github.com/johnknash2025/temae-local-llm-benchmark) | Desktop app that re-runs your own task suite on every local model and produces client-ready reports | Working prototype, tested on macOS |
 | [**Portfolio Insight**](https://github.com/johnknash2025/portfolio-insight) | Stock charts and holdings analysis; portfolio data stays in the browser | Demo; data terms to be cleared before any sale |
 | [**Yasashii Ippun**](https://github.com/johnknash2025/yasashii-ippun) | Chrome extension for calm 60-second breaks and gentler wording | Local features work; store readiness pending |
 
