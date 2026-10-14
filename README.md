@@ -25,6 +25,7 @@ Smaller tools I build for myself and share as they are.
 | [**Yasashii Ippun**](https://github.com/johnknash2025/yasashii-ippun) | Chrome extension for calm 60-second breaks and gentler wording | Local features work; store readiness pending |
 | [**AITuber Agent**](https://github.com/johnknash2025/aituber-agent-docs) | AI co-host for live streams: reads chat, replies with a local model, shows and speaks the reply | Offline demo works; live stream not tested |
 | [**Agent Matchmaking**](https://github.com/johnknash2025/agent-matchmaking) | Personal AI agents meet first; people are introduced only when both agree | Concept only; looking for a viable business model |
+| **Proof of Thought** | Hiring profiles built from your AI conversations instead of a self-written résumé: a local model extracts skill evidence, you approve what is shared, and employers search that evidence | Planned; nothing built yet |
 
 ## Open-source work
 Public code and measurements, open for anyone to reuse.
