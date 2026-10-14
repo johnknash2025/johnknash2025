@@ -12,7 +12,7 @@ Products I am building to offer as services (Happy AI Garage).
 | [**Temae: Local LLM Benchmark**](https://github.com/johnknash2025/temae-local-llm-benchmark) | Desktop app that re-runs your own task suite on every local model and produces client-ready reports | Working prototype, tested on macOS |
 | [**Hatake Shirube (畑しるべ)**](https://github.com/johnknash2025/hatake-shirube-docs) | Farm management: camera checks, planting plans, cultivation records, a market-price outlook and invite-only sales | In use on one family farm; 13 of 14 integration test suites pass |
 | [**AI Research Media**](https://github.com/johnknash2025/ai-research-media-docs) | Japanese-language site explaining new AI papers and industry moves, leading to PoC support and learning material | Beta preview live; articles are sample text |
-| **Agent Commerce** | Talk to one agent on your phone or PC: it gathers what you need to know and buys for you, only after you approve each purchase. Shops would only need to offer an API, not host a full storefront | Concept |
+| [**Agent Commerce**](https://github.com/johnknash2025/agent-commerce) | Talk to one agent on your phone or PC: it gathers what you need to know and buys for you, only after you approve each purchase. Shops would only need to offer an API, not host a full storefront | Concept; draft 0.1 seller listing spec published |
 
 The software is proprietary; source code can be shared when we discuss a project. Each documented product has a page with screenshots, a design diagram and an honest status table.
 
