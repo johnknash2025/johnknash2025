@@ -24,6 +24,7 @@ Smaller tools I build for myself and share as they are.
 | [**Portfolio Insight**](https://github.com/johnknash2025/portfolio-insight) | Stock charts and holdings analysis; portfolio data stays in the browser | Demo; data terms to be cleared before any sale |
 | [**Yasashii Ippun**](https://github.com/johnknash2025/yasashii-ippun) | Chrome extension for calm 60-second breaks and gentler wording | Local features work; store readiness pending |
 | [**AITuber Agent**](https://github.com/johnknash2025/aituber-agent-docs) | AI co-host for live streams: reads chat, replies with a local model, shows and speaks the reply | Offline demo works; live stream not tested |
+| [**leakwatch-jp**](https://github.com/johnknash2025/leakwatch-jp) | Check whether your email or passwords appear in known data breaches (via Have I Been Pwned), rate how serious each leak is, and track the steps you take. Runs locally; never crawls the dark web or acts on your accounts | CLI works with mock data and live Pwned Passwords; email lookup not yet tried with a real HIBP key. Open source (AGPL-3.0) |
 | [**Agent Matchmaking**](https://github.com/johnknash2025/agent-matchmaking) | Personal AI agents meet first; people are introduced only when both agree | Concept only; looking for a viable business model |
 | **Proof of Thought** | Hiring profiles built from your AI conversations instead of a self-written résumé: a local model extracts skill evidence, you approve what is shared, and employers search that evidence | Planned; nothing built yet |
 
