@@ -14,9 +14,9 @@ Products I am building to offer as services (Happy AI Garage).
 | [**AI Research Media**](https://github.com/johnknash2025/ai-research-media-docs) | Japanese-language site explaining new AI papers and industry moves, leading to PoC support and learning material | Beta preview live; articles are sample text |
 | [**Agent Commerce**](https://github.com/johnknash2025/agent-commerce) | Talk to one agent on your phone or PC: it gathers what you need to know and buys for you, only after you approve each purchase. Shops would only need to offer an API, not host a full storefront | Concept; draft 0.1 seller listing spec published |
 | **Card Guard Agent** | Keeps track of which card is registered with which service, suggests lower limits for rarely used cards, checks that usage alerts are on, and walks you through what to do if a card leaks. Never stores full card numbers | Planned; nothing built yet |
-| **Account Keeper Agent** | Keeps track of which web services you signed up for and what you registered with each (email, phone, address, linked logins), flags accounts you no longer use, and helps you update or close them. Kept separate from Card Guard, which only looks up services here and never shares card data back | Planned; nothing built yet |
+| [**Account Keeper Agent**](https://github.com/johnknash2025/account-keeper-agent) | Keeps track of which web services you signed up for and what you registered with each (email, phone, address label, 2FA method), flags weak 2FA and accounts you no longer use, and lists what to update first when your email, phone or address changes. Runs locally as a CLI, an MCP server (Hermes Agent, Claude Code) and an Ollama agent. Never stores passwords or card numbers; kept separate from Card Guard | Mock: CLI and MCP server work on 12 fictional accounts, 6 tests pass; agent mode not yet tried with a real local model. Open source (MIT) |
 
-The software is proprietary; source code can be shared when we discuss a project. Each documented product has a page with screenshots, a design diagram and an honest status table.
+Unless marked open source, the software is proprietary; source code can be shared when we discuss a project. Each documented product has a page with screenshots, a design diagram and an honest status table.
 
 ## Hobby projects
 Smaller tools I build for myself and share as they are.
