@@ -30,6 +30,13 @@ Smaller tools I build for myself and share as they are.
 | [**Agent Matchmaking**](https://github.com/johnknash2025/agent-matchmaking) | Personal AI agents meet first; people are introduced only when both agree | Concept only; looking for a viable business model |
 | **Proof of Thought** | Hiring profiles built from your AI conversations instead of a self-written résumé: a local model extracts skill evidence, you approve what is shared, and employers search that evidence | Planned; nothing built yet |
 
+## Just for fun
+Small things made because they were fun, or because someone asked.
+
+| Project | What it is | Status |
+|---|---|---|
+| [**vrchat-shout-bar**](https://github.com/johnknash2025/vrchat-shout-bar) | VRChat world buttons that let everyone shout "Marx!", "Nietzsche!" or "Freud!" together, with synced effects and a shared tally. Made because someone on Discord asked for it | Works in Unity's ClientSim (demo video in the README); multiplayer sync not yet tested. Open source (MIT) |
+
 ## Open-source work
 Public code and measurements, open for anyone to reuse.
 
