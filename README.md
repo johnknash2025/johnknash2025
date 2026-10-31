@@ -13,6 +13,7 @@ Products I am building to offer as services (Happy AI Garage).
 | [**Hatake Shirube (畑しるべ)**](https://github.com/johnknash2025/hatake-shirube-docs) | Farm management: camera checks, planting plans, cultivation records, a market-price outlook and invite-only sales | In use on one family farm; 13 of 14 integration test suites pass |
 | [**AI Research Media**](https://github.com/johnknash2025/ai-research-media-docs) | Japanese-language site explaining new AI papers and industry moves, leading to PoC support and learning material | Beta preview live; articles are sample text |
 | [**Agent Commerce**](https://github.com/johnknash2025/agent-commerce) | Talk to one agent on your phone or PC: it gathers what you need to know and buys for you, only after you approve each purchase. Shops would only need to offer an API, not host a full storefront | Concept; draft 0.1 seller listing spec published |
+| [**Card Guard Agent**](https://github.com/johnknash2025/card-guard-agent) | Keeps track of which card is registered with which service, suggests lower limits for rarely used cards, checks that usage alerts are on, and walks you through what to do if a card leaks or is reissued. Never stores card numbers; kept separate from Account Keeper | Design published, feedback welcome; no code yet |
 | [**Account Keeper Agent**](https://github.com/johnknash2025/account-keeper-agent) | Keeps track of which web services you signed up for and what you registered with each (email, phone, address label, 2FA method), flags weak 2FA and accounts you no longer use, and lists what to update first when your email, phone or address changes. Runs locally as a CLI, an MCP server (Hermes Agent, Claude Code) and an Ollama agent. Never stores passwords or card numbers; kept separate from Card Guard | Mock: CLI and MCP server work on fictional accounts; finds dormant accounts, writes step-by-step retirement guides (money-linked services first) and imports names and URLs from a Bitwarden CSV without reading passwords; 72 tests pass. Agent mode not yet tried with a real local model. Open source (MIT) |
 
 Unless marked open source, the software is proprietary; source code can be shared when we discuss a project. Each documented product has a page with screenshots, a design diagram and an honest status table.
@@ -46,7 +47,6 @@ Public code and measurements, open for anyone to reuse.
 ## Planned
 Ideas with nothing built yet, listed so they can be discussed.
 
-- **Card Guard Agent**: keeps track of which card is registered with which service, suggests lower limits for rarely used cards, checks that usage alerts are on, and walks you through what to do if a card leaks. Never stores full card numbers.
 - **Proof of Thought**: hiring profiles built from your AI conversations instead of a self-written résumé: a local model extracts skill evidence, you approve what is shared, and employers search that evidence.
 
 ## How I work
