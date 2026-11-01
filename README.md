@@ -2,7 +2,7 @@
 
 # johnkhappy
 
-Physicist turned AI Researcher & Multi-domain Engineer | LLM Farmer. Physics → AI & Comp Neuro MSc. Now building real-world AI applications.
+Multi-domain engineer | LLM farmer. Building real-world AI applications. Background in computational neuroscience, with a physicist's habits underneath.
 
 I build **local-first AI tools**: software that runs on your own hardware, keeps your data with you, and tells you honestly what has and has not been verified.
 
