@@ -27,7 +27,7 @@
 
 | プロジェクト | 概要 | 状況 |
 | --- | --- | --- |
-| [**Portfolio Insight**](https://github.com/johnknash2025/portfolio-insight) | 株価チャートと保有銘柄の分析。ポートフォリオのデータはブラウザ内にとどまります | **アーリープレビュー 0.1.0**（機能はまだ最小限）：[macOS・Windows・Linux 版をダウンロード](https://github.com/johnknash2025/portfolio-insight/releases/tag/v0.1.0-beta)。手元だけで動き、何も送信しません |
+| [**Portfolio Insight**](https://github.com/johnknash2025/portfolio-insight) | 株価チャートと保有銘柄の分析。ポートフォリオのデータはブラウザ内にとどまります | **アーリープレビュー 0.1.1**（機能はまだ最小限）：[macOS・Windows・Linux 版をダウンロード](https://github.com/johnknash2025/portfolio-insight/releases/tag/v0.1.1-beta)。手元だけで動き、何も送信しません |
 | [**やさしい一分（Yasashii Ippun）**](https://github.com/johnknash2025/yasashii-ippun) | 落ち着いた60秒の休憩と、やわらかい言い回しのためのChrome拡張 | GitHubから導入可能（zipまたはソース、デベロッパーモード）。オープンソース（MIT） |
 | [**AITuber Agent**](https://github.com/johnknash2025/aituber-agent-docs) | 配信用のAI共同ホスト：チャットを読み、ローカルモデルで返答し、表示して読み上げます | オフラインデモは動作。実配信は未検証 |
 | [**leakwatch-jp**](https://github.com/johnknash2025/leakwatch-jp) | 自分のメールアドレスやパスワードが既知のデータ漏えいに含まれていないかを（Have I Been Pwned経由で）確認し、漏えいの深刻度を評価し、対応の進捗を記録します。ローカルで動作し、ダークウェブの巡回やアカウントへの操作は一切しません | CLIはモックデータと実際のPwned Passwordsで動作。実際のHIBPキーでのメール照会は未検証。オープンソース（AGPL-3.0） |
