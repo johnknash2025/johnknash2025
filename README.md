@@ -1,3 +1,5 @@
+**English** | [日本語](README.ja.md)
+
 # johnkhappy
 
 Physicist turned AI Researcher & Multi-domain Engineer | LLM Farmer. Physics → AI & Comp Neuro MSc. Now building real-world AI applications.
