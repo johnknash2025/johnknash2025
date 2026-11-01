@@ -25,7 +25,7 @@ Smaller tools I build for myself and share as they are.
 
 | Project | What it is | Status |
 |---|---|---|
-| [**Portfolio Insight**](https://github.com/johnknash2025/portfolio-insight) | Stock charts and holdings analysis; portfolio data stays in the browser | **Desktop beta 0.1.0 available**: [download for macOS / Windows / Linux](https://github.com/johnknash2025/portfolio-insight/releases/tag/v0.1.0-beta). Runs locally, sends nothing |
+| [**Portfolio Insight**](https://github.com/johnknash2025/portfolio-insight) | Stock charts and holdings analysis; portfolio data stays in the browser | **Early preview 0.1.0** (features still minimal): [download for macOS / Windows / Linux](https://github.com/johnknash2025/portfolio-insight/releases/tag/v0.1.0-beta). Runs locally, sends nothing |
 | [**Yasashii Ippun**](https://github.com/johnknash2025/yasashii-ippun) | Chrome extension for calm 60-second breaks and gentler wording | Install from GitHub (zip or source, developer mode). Open source (MIT) |
 | [**AITuber Agent**](https://github.com/johnknash2025/aituber-agent-docs) | AI co-host for live streams: reads chat, replies with a local model, shows and speaks the reply | Offline demo works; live stream not tested |
 | [**leakwatch-jp**](https://github.com/johnknash2025/leakwatch-jp) | Check whether your email or passwords appear in known data breaches (via Have I Been Pwned), rate how serious each leak is, and track the steps you take. Runs locally; never crawls the dark web or acts on your accounts | CLI works with mock data and live Pwned Passwords; email lookup not yet tried with a real HIBP key. Open source (AGPL-3.0) |
