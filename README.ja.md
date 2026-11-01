@@ -12,7 +12,7 @@
 
 | プロダクト | 概要 | 状況 |
 | --- | --- | --- |
-| [**Temae：ローカルLLMベンチマーク**](https://github.com/johnknash2025/temae-local-llm-benchmark) | 自分のタスク群をすべてのローカルモデルで再実行し、顧客にそのまま渡せるレポートを作るデスクトップアプリ | 動作するプロトタイプ。macOSで動作確認済み |
+| [**Temae：ローカルLLMベンチマーク**](https://github.com/johnknash2025/temae-local-llm-benchmark) | 自分のタスク群をすべてのローカルモデルで再実行し、顧客にそのまま渡せるレポートを作るデスクトップアプリ | **ベータ 0.1.0 公開中**：[macOS・Windows・Linux 版をダウンロード](https://github.com/johnknash2025/temae-local-llm-benchmark/releases/tag/v0.1.0-beta)。手元だけで動き、何も送信しません |
 | [**畑しるべ（Hatake Shirube）**](https://github.com/johnknash2025/hatake-shirube-docs) | 農園管理：カメラでの生育チェック、作付計画、栽培記録、市況見通し、招待制の販売 | 家族の農園1か所で運用中。結合テスト14スイート中13が合格 |
 | [**AI Research Media**](https://github.com/johnknash2025/ai-research-media-docs) | 最新のAI論文や業界動向を日本語で解説するサイト。PoC支援や学習教材につなげる | ベータ版を公開中。記事はサンプル文 |
 | [**Agent Commerce**](https://github.com/johnknash2025/agent-commerce) | スマホやPCで1つのエージェントと話すだけで、必要な情報を集め、購入ごとにあなたが承認した後でだけ代わりに買い物をします。お店側は完全なECサイトではなく、APIを用意するだけで済みます | 構想段階。出品仕様の草案0.1を公開 |
@@ -27,7 +27,7 @@
 
 | プロジェクト | 概要 | 状況 |
 | --- | --- | --- |
-| [**Portfolio Insight**](https://github.com/johnknash2025/portfolio-insight) | 株価チャートと保有銘柄の分析。ポートフォリオのデータはブラウザ内にとどまります | デモ。販売前にデータの利用条件の確認が必要 |
+| [**Portfolio Insight**](https://github.com/johnknash2025/portfolio-insight) | 株価チャートと保有銘柄の分析。ポートフォリオのデータはブラウザ内にとどまります | **アーリープレビュー 0.1.0**（機能はまだ最小限）：[macOS・Windows・Linux 版をダウンロード](https://github.com/johnknash2025/portfolio-insight/releases/tag/v0.1.0-beta)。手元だけで動き、何も送信しません |
 | [**やさしい一分（Yasashii Ippun）**](https://github.com/johnknash2025/yasashii-ippun) | 落ち着いた60秒の休憩と、やわらかい言い回しのためのChrome拡張 | GitHubから導入可能（zipまたはソース、デベロッパーモード）。オープンソース（MIT） |
 | [**AITuber Agent**](https://github.com/johnknash2025/aituber-agent-docs) | 配信用のAI共同ホスト：チャットを読み、ローカルモデルで返答し、表示して読み上げます | オフラインデモは動作。実配信は未検証 |
 | [**leakwatch-jp**](https://github.com/johnknash2025/leakwatch-jp) | 自分のメールアドレスやパスワードが既知のデータ漏えいに含まれていないかを（Have I Been Pwned経由で）確認し、漏えいの深刻度を評価し、対応の進捗を記録します。ローカルで動作し、ダークウェブの巡回やアカウントへの操作は一切しません | CLIはモックデータと実際のPwned Passwordsで動作。実際のHIBPキーでのメール照会は未検証。オープンソース（AGPL-3.0） |
