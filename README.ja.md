@@ -47,7 +47,6 @@
 
 | プロジェクト | 概要 | 状況 |
 | --- | --- | --- |
-| [**macpro-vega2-llm-bench**](https://github.com/johnknash2025/macpro-vega2-llm-bench) | Mac Pro 2019のRadeon Pro Vega II（gfx906）でのローカルLLMエンジン（Strata、llama.cpp）の計測：Qwen3.8-Flash-Nextで約43 tok/s。LinuxでGPUクロックが約1000MHzに張り付く問題の修正も含みます | 2026-10-11に計測。スクリプトと生ログを同梱 |
 | [**Strata：VBMIなしで動くi-quant AVX-512カーネル**](https://github.com/johnknash2025/Strata/tree/avx512-no-vbmi) | Strataのi-quant AVX-512エキスパートカーネルを、Skylake-X／Cascade Lake（VBMIなしのAVX-512）のCPUで動くようにしたもの | Xeon W-3235で一致テスト合格。IQ2_XSでスレッドあたり約2倍、IQ3_XXSではエンドツーエンドの改善なし。上流への提案はまだ |
 
 ## 予定
